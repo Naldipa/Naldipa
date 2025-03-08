@@ -35,8 +35,8 @@ Berikut adalah beberapa teknologi yang sering saya gunakan:
 Jika kamu tertarik untuk berkenalan atau berkolaborasi, jangan ragu untuk menghubungi saya melalui:
 
 - [LinkedIn](https://www.linkedin.com/in/naldipa/)
-- [Email](mailto:naldipradipta@example.com)
-- [Portfolio](https://naldipa.com) *(jika ada)*
+- [Email](mailto:naldipradipta6@gmail.com)
+- [Portfolio](https://naldipa.github.io/My-website/)
 
 ### 🌟 **Fun Fact**
 - Saya suka menjelajahi teknologi baru dan mencoba framework atau library terbaru.
