@@ -29,7 +29,6 @@ Berikut adalah beberapa teknologi yang sering saya gunakan:
 
 ### 🏆 **Achievements**
 - 🥇 Menyelesaikan berbagai course dan sertifikasi di platform seperti **Dicoding**, **Coursera**, dan **Udemy**.
-- 🚀 Berhasil mengembangkan dan meluncurkan beberapa proyek pribadi yang digunakan oleh ratusan pengguna.
 
 ### 📫 **Hubungi Saya**
 Jika kamu tertarik untuk berkenalan atau berkolaborasi, jangan ragu untuk menghubungi saya melalui:
