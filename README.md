@@ -1,46 +1,43 @@
-## Hi there 👋
+# Hi there 👋  
 
-Perkenalkan nama saya **Naldi Pradipta**.
+I'm **Naldi Pradipta**, a passionate **Fullstack Developer** dedicated to building beautiful, functional, and scalable web applications. With expertise in both frontend and backend development, I thrive on solving complex problems with clean and efficient code.  
 
-Saya seorang **Fullstack Developer** dengan passion untuk membangun aplikasi web yang indah, fungsional, dan skalabel. Saya memiliki pengalaman dalam mengembangkan solusi teknologi dari frontend hingga backend, serta menikmati tantangan dalam memecahkan masalah kompleks dengan kode yang bersih dan efisien.
+### 💼 **What I Do**  
+- 🔭 Currently focused on web development using modern tech like **React**, **Node.js**, **Express**, and **MongoDB**.  
+- 🌱 Constantly learning **Cloud Computing**, **DevOps**, and **Machine Learning** to expand my skillset.  
+- 👯 Open to collaborating on open-source projects or innovative web development initiatives.  
+- 💬 Ask me about **Web Development**, **JavaScript**, or anything tech-related!  
 
-### 💼 **Apa yang Saya Lakukan?**
-- 🔭 Saat ini, saya fokus pada pengembangan aplikasi web menggunakan teknologi modern seperti **React**, **Node.js**, **Express**, dan **MongoDB**.
-- 🌱 Saya terus belajar dan mengembangkan keterampilan saya dalam bidang **Cloud Computing**, **DevOps**, dan **Machine Learning**.
-- 👯 Saya terbuka untuk berkolaborasi dalam proyek-proyek open source atau proyek pengembangan web yang menarik.
-- 💬 Jangan ragu untuk bertanya kepada saya tentang **Web Development**, **JavaScript**, atau hal-hal terkait teknologi lainnya.
+### 🛠️ **Tech Stack**  
+Here are some technologies I work with:  
 
-### 🛠️ **Tech Stack**
-Berikut adalah beberapa teknologi yang sering saya gunakan:
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS  
+- **Backend**: Node.js, Express, Django  
+- **Database**: MongoDB, MySQL, PostgreSQL  
+- **Tools**: Git, Docker, VS Code, Postman  
+- **Cloud**: AWS, Google Cloud, Vercel, Netlify  
 
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend**: Node.js, Express, Django
-- **Database**: MongoDB, MySQL, PostgreSQL
-- **Tools**: Git, Docker, VS Code, Postman
-- **Cloud**: AWS, Google Cloud Platform, Vercel, Netlify
-
-### 📈 **Github Statistic**
+### 📈 **GitHub Stats**  
 <p align="left">
 <a href="https://github.com/naldipa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naldipa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naldipa&layout=compact&theme=algolia"/>
 </a>
-</p>
+</p>  
 
-### 🏆 **Achievements**
-- 🥇 Menyelesaikan berbagai course dan sertifikasi di platform seperti **Dicoding**, **Coursera**, dan **Udemy**.
+### 🏆 **Achievements**  
+- 🥇 Completed multiple courses and certifications on **Dicoding**, **Coursera**, and **Udemy**.  
 
-### 📫 **Hubungi Saya**
-Jika kamu tertarik untuk berkenalan atau berkolaborasi, jangan ragu untuk menghubungi saya melalui:
+### 📫 **Get in Touch**  
+Let’s connect or collaborate! Reach me via:  
+- [LinkedIn](https://www.linkedin.com/in/naldipa/)  
+- [Email](mailto:naldipradipta6@gmail.com)  
+- [Portfolio](https://naldipa.github.io/My-website/)  
 
-- [LinkedIn](https://www.linkedin.com/in/naldipa/)
-- [Email](mailto:naldipradipta6@gmail.com)
-- [Portfolio](https://naldipa.github.io/My-website/)
+### 🌟 **Fun Fact**  
+- I love exploring new tech and experimenting with the latest frameworks/libraries.  
+- When not coding, I enjoy gaming, reading tech books, or hiking.  
 
-### 🌟 **Fun Fact**
-- Saya suka menjelajahi teknologi baru dan mencoba framework atau library terbaru.
-- Di waktu luang, saya menikmati bermain game, membaca buku teknologi, atau menjelajahi alam.
+---  
 
----
-
-⭐️ Dari [Naldi Pradipta](https://github.com/naldipa)
+⭐️ From [Naldi Pradipta](https://github.com/naldipa)  
